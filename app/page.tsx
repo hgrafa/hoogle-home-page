@@ -3,7 +3,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col-reverse items-center justify-between p-16">
       <div className="order-last"></div>
 
-      <p className="duration-[3000ms] order-2 w-auto animate-pulse rounded-xl border border-neutral-800 bg-zinc-800/30 p-4 text-xl">
+      <p className="order-2 w-auto rounded-xl border border-neutral-800 bg-zinc-800/30 p-4 text-xl">
         ⚡ Coming soon ⚡
       </p>
 
